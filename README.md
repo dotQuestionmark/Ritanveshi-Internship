@@ -1,6 +1,6 @@
 # Ritanveshi Internship
 
-### Task 1
+## Task 1 
 
 ### Step 1 
 
