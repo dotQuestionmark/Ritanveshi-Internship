@@ -15,3 +15,6 @@
 ###### Course Listings
 
 [Ritanveshi Website](https://ritanveshi.com/)
+
+[Online Courses](https://ritanveshi.com/yogayan-category/online-courses/)
+
