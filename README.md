@@ -1,4 +1,6 @@
-## Ritanveshi Internship
+# Ritanveshi Internship
+
+### Task 1
 
 ### Step 1 
 
@@ -12,7 +14,3 @@
 ###### Admin has the full access and can add and/or remove Listings
 ###### Course Listings
 
-
-### Support or Contact
-
- [contact support](support@dotquestionmark.com) and we’ll help you sort it out.
